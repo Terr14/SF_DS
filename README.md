@@ -3,4 +3,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-science
 
 ## Проекты
 
-* [Проект 0. Игра "Угадай число"](https://github.com/Terr14/SF_DS/blob/main/game_v2.py)
+* [Проект 1. Игра "Угадай число"](E:\Study\Data science SF\IDE\SF_DataScience_projects\Project 1)
