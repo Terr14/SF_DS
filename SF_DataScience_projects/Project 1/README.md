@@ -9,7 +9,7 @@
 
 [4. Каковы были этапы работы над проектом](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Каковы-были-этапы-работы-над-проектом)
 
-[5. Какие результаты были получены]()
+[5. Какие результаты были получены](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Какие-результаты-были-получены)
 
 ### Описание проекта
 Угадать загаданное компьютером число
