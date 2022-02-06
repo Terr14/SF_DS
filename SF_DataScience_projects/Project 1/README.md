@@ -11,8 +11,6 @@
 
 [5. Какие результаты были получены]()
 
-:arrow_up: [к_оглавлению](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Оглавление)
-
 ### Описание проекта
 Угадать загаданное компьютером число
 
@@ -28,3 +26,5 @@
 
 ### Какие результаты были получены
 Получен результат вычисления среднего количества попыток угадывания при количестве загадываний n=1000.
+
+:arrow_up: [к_оглавлению](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Оглавление)
