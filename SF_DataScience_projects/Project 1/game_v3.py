@@ -60,9 +60,9 @@ def score_game(random_predict_v3) -> int:
 
     score = int(np.mean(count_ls))
     max_score = max(count_ls)
-    print(f"Алгоритм угадывает число в среднем за: {score} попыток.\
-        Количество повторений: {n}.\
-        Максимальное количество попыток: {max_score}")
+    print(f"Алгоритм угадывает число в среднем за {score} попыток. \
+Количество повторений: {n}. \
+Максимальное количество попыток: {max_score}")
     return score
 
 score_game(random_predict_v3)
