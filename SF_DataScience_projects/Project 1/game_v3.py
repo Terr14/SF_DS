@@ -31,7 +31,7 @@ def random_predict_v3(number:int=1) -> int:
             elif n_mid < predict_number:
                 n_min = n_mid
 
-            if n_max - n_min == 1: # Если дошли до n_min=1 и n_min=2
+            if n_max - n_min == 1: # Если дошли до n_min=1 и n_max=2
                 
                 if n_max == predict_number:
                     count += 1
