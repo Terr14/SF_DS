@@ -1,5 +1,5 @@
-
 import numpy as np
+from numpy import random
 
 def random_predict_v3(number:int=1) -> int:
     """Рандомно угадываем число
@@ -14,18 +14,32 @@ def random_predict_v3(number:int=1) -> int:
     n_min = 1
     n_max = 101
     count = 0
-    number = np.random.randint(n_min, n_max)        
+    predict_number = 1
+    #predict_number = np.random.randint(n_min, n_max)
+    
     while True: # Выбирам число из середины диапазона, пока не угадаем
+        
         count += 1
         n_mid = round((n_min+n_max)/2) 
-        if n_mid > number:
-            n_max = n_mid
-        
-        elif n_mid < number:
-            n_min = n_mid
+        num = np.random.randint(n_min, n_max)
 
-        else:
-            return count
+                
+        if num > predict_number:
+            n_max = n_mid
+            
+        elif num < predict_number:
+            n_min = n_mid
+             
+        if (n_max - n_min) == 1: # Если достигли n_max = 2 и n_min = 1
+            
+            count += 1
+            if n_max == predict_number:
+                
+                return count
+            count += 1
+            if n_min == predict_number:
+                
+                return count   
        
 
 def score_game(random_predict_v3) -> int:
@@ -44,8 +58,10 @@ def score_game(random_predict_v3) -> int:
         count_ls.append(random_predict_v3())
 
     score = int(np.mean(count_ls))
+    max_score = max(count_ls)
     print(f"Алгоритм угадывает число в среднем за: {score} попыток.\
-        Количество повторений: {n}")
+        Количество повторений: {n}.\
+        Максимальное количество попыток: {max_score}")
     return score
 
 score_game(random_predict_v3)
