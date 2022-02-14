@@ -14,6 +14,7 @@ def random_predict_v3(number:int=1) -> int:
     n_max = 101
     count = 0
     #predict_number = 1
+    np.random.seed(100)
     predict_number = np.random.randint(n_min, n_max)
     
     while True: # Выбирам число из середины диапазона, пока не угадаем
