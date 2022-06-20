@@ -1,4 +1,4 @@
-# Проект 1. Booking reviews"
+# Проект 3. Booking reviews
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Описание-проекта)
