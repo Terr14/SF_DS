@@ -44,4 +44,6 @@
 ## Какие результаты были получены
 Модель позволяет предсказать рейтинг отеля с отклонением около 12%.
 
+[Ноутбук на платформе Kaggle](https://www.kaggle.com/code/jahorkandratovi/booking-reviews-predict-solution)
+
 :arrow_up: [к_оглавлению](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Оглавление)
