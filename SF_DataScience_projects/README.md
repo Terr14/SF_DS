@@ -4,8 +4,8 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-science
 ## Проекты
 
 
-* [Проект 1. Игра "Угадай число"](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/Project%201)
+* [Проект-0. Игра "Угадай число"](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-0.%20%D0%98%D0%B3%D1%80%D0%B0%20'%D0%A3%D0%B3%D0%B0%D0%B4%D0%B0%D0%B9%20%D1%87%D0%B8%D1%81%D0%BB%D0%BE')
 
-* [PROJECT-2. Анализ кандидатов для заказчиков](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-2.%20SQL)
+* [PROJECT-1. Анализ кандидатов для заказчиков](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%B8%D0%B7%20HeadHunter)
 
 * [PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20%D0%A1%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20Kaggle)
