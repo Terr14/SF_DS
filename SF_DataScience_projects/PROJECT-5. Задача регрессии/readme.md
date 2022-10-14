@@ -1,14 +1,14 @@
-# Проект 4. Задача классификации
+# Проект 5. Задача регресии
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-4.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/readme.md/#Описание-проекта)
+[1. Описание проекта](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/readme.md/#Описание-проекта)
 
-[2. Какую задачу мы решаем](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-4.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/readme.md/#Какую-задачу-мы-решаем)
+[2. Какую задачу мы решаем](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/readme.md/#Какую-задачу-мы-решаем)
 
-[3. Каковы были этапы работы над проектом](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-4.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/readme.md/#Каковы-были-этапы-работы-над-проектом)
+[3. Каковы были этапы работы над проектом](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/readme.md/#Каковы-были-этапы-работы-над-проектом)
 
-[4. Какие результаты были получены](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-4.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/readme.md/#Какие-результаты-были-получены)
+[4. Какие результаты были получены](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/readme.md/#Какие-результаты-были-получены)
 
 ## Описание проекта
 
@@ -40,4 +40,4 @@
 
 Модель позволяет предсказать вероятность открытия депозита клиетном с точностью около 84%.
 
-:arrow_up: [к_оглавлению](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-4.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8/readme.md/#Оглавление)
+:arrow_up: [к_оглавлению](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/readme.md/#Оглавление)
