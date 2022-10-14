@@ -3,7 +3,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Описание-проекта)
 
-[2. Какую задачу мы решаем](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Какую задачу мы решаем)
+[2. Какую задачу мы решаем](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Какую-задачу-мы-решаем)
 
 [3. Каковы были этапы работы над проектом](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Каковы-были-этапы-работы-над-проектом)
 
