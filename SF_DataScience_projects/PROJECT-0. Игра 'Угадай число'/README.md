@@ -1,13 +1,13 @@
 # Проект 1. Игра "Угадай число"
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Описание-проекта)
+[1. Описание проекта](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/readme.md/#Описание-проекта)
 
-[2. Какой кейс мы решаем](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Какой-кейс-решаем)
+[2. Какой кейс мы решаем](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/readme.md/#Какой-кейс-решаем)
 
-[3. Каковы были этапы работы над проектом](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Каковы-были-этапы-работы-над-проектом)
+[3. Каковы были этапы работы над проектом](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/readme.md/#Каковы-были-этапы-работы-над-проектом)
 
-[4. Какие результаты были получены](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Какие-результаты-были-получены)
+[4. Какие результаты были получены](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/readme.md/#Какие-результаты-были-получены)
 
 ## Описание проекта
 Алгоритм угадывает случайное число за минимальное количество попыток.
@@ -39,4 +39,4 @@
 Алгоритм позволяет найти загаданное число за минимальное количество попыток. 
 Получен результат вычисления среднего количества попыток угадывания: 5 при количестве повторений n=1000. Максимальное количсетво попыток: 7.
 
-:arrow_up: [к_оглавлению](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/README.md/#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/Project%201/readme.md/#Оглавление)

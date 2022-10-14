@@ -46,4 +46,4 @@
 
 [Ноутбук на платформе Kaggle](https://www.kaggle.com/code/jahorkandratovi/booking-reviews-predict-solution)
 
-:arrow_up: [к_оглавлению](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20%D0%A1%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20Kaggle/#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20%D0%A1%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20Kaggle/#Оглавление)
