@@ -10,6 +10,8 @@
 
 [4. Какие результаты были получены](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/readme.md/#Какие-результаты-были-получены)
 
+[5. Описание оформления результатов]()
+
 ## Описание проекта
 
 Один из ключевых проектов IntelliVision — Smart City/Transportation, система, обеспечивающая безопасность дорожного движения и более эффективную работу парковок. С помощью Smart City/Transportation можно контролировать сигналы светофоров и соблюдение ограничений скорости, определять виды транспортных средств, распознавать номерные знаки, считать автомобили и людей.
@@ -46,13 +48,17 @@
 
 ## Какие результаты были получены
 
-Исселодование второго набора дескрипторов (osnet) показал наилучший результат, который позволяет определить цвет автомобиля, тип кузова и ракурс фотографии.
+Исселодование второго набора дескрипторов (osnet) c применением метода кластеризации Kmeans показал наилучший результат, который позволяет определить цвет автомобиля, тип кузова и ракурс фотографии.
+
+## Описание оформления результатов
+
+Поскольку работа проводилась с объемными данными, и с ограниченными вычислительными возможностями - предварительные исследования проводились на части данных, а результаты работы по каждому набору дескрипторов и финальное решение оформлены отдельно. В финальном решении модель обучена на полном объеме данных с наилучшими параметрами, найденными предварительно.
 
 * [Финальное решение](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision.ipynb)
 
-* [Исследование первого набора дексрипторов (efficientnet-b7)](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/1-kmeans-(n%3D2)%20final.ipynb)
-* [Исследование второго набора дексрипторов (osnet)](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/2-kmeans-(n%3D87)%20final.ipynb)
-* [Исследование третьего набора дексрипторов (vdc_color)](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/3-kmeans-(n%3D12)-final.ipynb)
-* [Исследование Четвертого набора дексрипторов (vdc_type)](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/4-kmeans-(n%3D12)%20final.ipynb)
+* [Исследование первого набора дексрипторов (efficientnet-b7)](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/1_descriptors.ipynb)
+* [Исследование второго набора дексрипторов (osnet)](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/2_descriptors.ipynb)
+* [Исследование третьего набора дексрипторов (vdc_color)](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/3_descriptors.ipynb)
+* [Исследование Четвертого набора дексрипторов (vdc_type)](https://github.com/Terr14/SF_DS/blob/main/SF_DataScience_projects/PROJECT-6.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%A0%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%B5%D0%B9%D1%81%20%D0%BE%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20IntelliVision/4_descriptors.ipynb)
 
 :arrow_up: [К оглавлению](https://github.com/Terr14/SF_DS/tree/main/SF_DataScience_projects/PROJECT-5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/readme.md/#Оглавление)
