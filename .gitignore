@@ -12,4 +12,5 @@ archive.zip
 archive/
 SF_DataScience_projects/PROJECT-6. Задача кластеризации. Реальный кейс от компании IntelliVision/data/
 SF_DataScience/Блок 7. ML в бизнесе/3. MATH&ML-14. Рекомендательные системы. Часть I/data/dst-3.0_mathml_14_5_rating.csv
+*venv/
 
